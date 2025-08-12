@@ -2,12 +2,12 @@
 
 简体中文 | [English](./README.en.md)
 
-<div align="center"><!-- <img width="200" src="https://gcore.jsdelivr.net/gh/zxwk1998/image/logo/vab.png"/> -->
+<div align="center">
 <img width="200" src="https://assets.rspack.rs/rspack/rspack-logo.svg"/>
 
-<h1> Admin-Better</h1>
-<p>拒绝过度封装，去除等待时间，让项目回归纯粹，让开发变的简单。</p>
-<p>立志做开源社区中，运行速度最快，打包等待时间最短，上手难度最低的开源中后台前端框架。</p>
+<h1>Vue Admin Better</h1>
+<p>拒绝过度封装，去除等待时间，让项目回归纯粹，让开发变得简单</p>
+<p>致力于成为开源社区中运行速度最快、打包等待时间最短、上手难度最低的中后台前端框架</p>
 </div>
 
 [![stars](https://img.shields.io/github/stars/zxwk1998/vue-admin-better?style=flat-square&logo=GitHub)](https://github.com/zxwk1998/vue-admin-better)
@@ -16,15 +16,10 @@
 
 ---
 
-<!-- ## 🎉 全新版本
+## 🚀 2025 全新启程
 
-基于 vite7.x + vue3.x + arco-design2.x 全新的前端框架 vue-admin-arco， 欢迎点击查看或试用 👏🏻👏🏻👏🏻
-
-[开源地址](https://github.com/zxwk1998/vue-admin-arco) | [演示地址](https://vuejs-core.cn/vue-admin-arco) -->
-
-## 📦️ 2025 全新启程
-
-- 🚀 项目运行速度提升 10-15 倍，打包速度提示 20-30 倍，运行打包最多不超过 10 秒，带你体验飞一般的感觉。
+- ⚡️ 项目运行速度提升 10-15 倍，打包速度提升 20-30 倍
+- 🕒 整体构建时间控制在 5 秒以内，带来飞一般的开发体验
 
 ## 🎉 特性
 
@@ -36,21 +31,20 @@
 - 🚀 跨平台 PC、手机端、平板
 - 📦️ 后端路由动态渲染
 
-## 💪 找工作
+## 🌐 演示地址
 
-- [🎉 找好工作就到【好工作就业参考网】查看就业避坑指南](https://job.vuejs-core.cn/)
+### 💡 免费版演示
 
-## 🌐 付费版演示地址
+- [🎉 Vue Admin Better - github 实时部署 （vue2.x + element-ui 免费商用，支持 PC、平板、手机）](https://zxwk1998.github.io/vue-admin-better/)
+- [🎉 Vue Admin Better （vue2.x + element-ui 免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better)
+- [🎉 Vue3 Admin Better （vue3.x + element-plus 免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue3-admin-better)
+- [⚡️ Vue Admin Arco （vue3.x + vite7.x + arco2.x 免费商用，支持 PC）](https://vuejs-core.cn/vue-admin-arco/)
 
-- [🚀 Vue Admin Pro 演示地址（vue2.x + element-ui 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/)
+### 💰 付费版演示
 
-- [🚀 Vue Admin Plus 演示地址（vue3.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-plus/)
-
-- [🚀 Vue Shop Vite 演示地址（vue3.x + vite7.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/shop-vite/)
-
-- [📌 Vue Admin Pro 及 Vue Admin Plus 购买地址](https://vuejs-core.cn/authorization/)
-
-- [📌 Vue Shop Vite 购买地址](https://vuejs-core.cn/authorization/shop-vite.html)
+- [🚀 Vue Admin Pro （vue2.x + element-ui 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/)
+- [🚀 Vue Admin Plus （vue3.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-plus/)
+- [🚀 Vue Shop Vite （vue3.x + vite7.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/shop-vite/)
 
 <!-- ## 🔊 温馨提示
 
@@ -62,30 +56,6 @@
 - 4、演示地址已加入恶意 ip 共享计划，对于存在恶意扫描服务器端口、服务器文件的问题 ip，我们将立即封禁，并同步至云服务器厂商恶意 ip 名单。
 
 以上措施真实有效，正常用户切勿因好奇前去尝试 DDOS 高防包的准确性，采取以上措施，实属迫不得已，地球这么大，容得下每一个前端框架，希望大家在各自的人生里各自发光，把余下的时间多用来陪陪家人孩子。（温馨提示：如果您发现自己的 ip 被误封，可联系微信客服申请解除）。 -->
-
-## 🌐 免费版演示地址
-
-- [🎉 Vue Admin Better （vue2.x + element-ui 免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better)
-
-- [🎉 Vue3 Admin Better （vue3.x + element-plus 免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue3-admin-better)
-
-<!-- - [⚡️ vue3.x + element-plus（alpha 版本，免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better-plus/) -->
-
-<!-- - [⚡️ Vue Admin Ant （vue3.x + ant-design-vue 免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better-antdv/) -->
-
-- [⚡️ Vue Admin Arco （vue3.x + vite7.x + arco2.x 免费商用，支持 PC）](https://vuejs-core.cn/vue-admin-arco/)
-
-## 🌐 仓库地址
-
-- [🌐 vue2.x github 仓库地址](https://github.com/zxwk1998/vue-admin-better/)
-
-- [🌐 vue3.x github 仓库地址 1](https://github.com/zxwk1998/vue3-admin-better/)
-
-- [🌐 vue3.x github 仓库地址 2](https://github.com/zxwk1998/vue-admin-arco/)
-
-- [🌐 vue2.x 码云仓库地址](https://gitee.com/chu1204505056/vue-admin-better/)
-
-- [🌐 vue3.x 码云仓库地址](https://gitee.com/chu1204505056/vue-admin-arco/)
 
 ## 🍻 前端讨论 QQ 群
 
@@ -106,6 +76,28 @@
 </tr>
 </table>
 
+## 💖 物料市场
+
+- [🎉 物料市场](https://vuejs-core.cn/store)
+
+## 💪 找工作
+
+- [🎉 找好工作就到【好工作就业参考网】查看就业避坑指南](https://job.vuejs-core.cn/)
+
+## 🌐 仓库地址
+
+- [🌐 vue-admin-better github 仓库地址](https://github.com/zxwk1998/vue-admin-better/)
+
+- [🌐 vue3-admin-better github 仓库地址](https://github.com/zxwk1998/vue3-admin-better/)
+
+- [🌐 vue-admin-arco github 仓库地址](https://github.com/zxwk1998/vue-admin-arco/)
+
+- [🌐 vue-admin-better 码云仓库地址](https://gitee.com/chu1204505056/vue-admin-better/)
+
+- [🌐 vue3-admin-better 码云仓库地址](https://gitee.com/chu1204505056/vue3-admin-better/)
+
+- [🌐 vue-admin-arco 码云仓库地址](https://gitee.com/chu1204505056/vue-admin-arco/)
+
 ## 📦️ 桌面应用程序
 
 - [Admin Pro](https://gitee.com/chu1204505056/microsoft-store/raw/master/AdminPlus.zip)
@@ -122,107 +114,109 @@ npm i --registry=http://mirrors.cloud.tencent.com/npm/
 npm run serve
 ``` -->
 
-## 🌱 vue3.x element-plus [点击切换仓库](https://github.com/zxwk1998/vue3-admin-better)
+## 🌱 Vue 2.x (Element UI) - 当前仓库
 
-```bash
-# 克隆项目
-git clonehttps://github.com/zxwk1998/vue3-admin-better.git
-# 安装依赖
-pnpm i --registry=http://mirrors.cloud.tencent.com/npm/
-# 本地开发 启动项目
-npm run dev
 ```
-
-## 🌱 vue3.x arco-design [点击切换仓库](https://github.com/zxwk1998/vue-admin-arco)
-
-```bash
-# 克隆项目
-git clonehttps://github.com/zxwk1998/vue-admin-arco.git
-# 安装依赖
-pnpm i --registry=http://mirrors.cloud.tencent.com/npm/
-# 本地开发 启动项目
-npm run dev
-```
-
-## 🌱vue2.x master 分支（element-ui）[点击切换分支](https://github.com/zxwk1998/vue-admin-better/tree/master)
-
-```bash
 # 克隆项目
 git clone -b master https://github.com/zxwk1998/vue-admin-better.git
+
 # 安装依赖
 pnpm i --registry=http://mirrors.cloud.tencent.com/npm/
+
 # 本地开发 启动项目
-npm run serve
+npm run serve:rspack
 ```
 
-## 🔊 友情链接
+## 🌱 Vue 3.x (Element Plus) [点击切换仓库](https://github.com/zxwk1998/vue3-admin-better)
+
+```
+# 克隆项目
+git clone https://github.com/zxwk1998/vue3-admin-better.git
+
+# 安装依赖
+pnpm i --registry=http://mirrors.cloud.tencent.com/npm/
+
+# 本地开发 启动项目
+npm run dev
+```
+
+## 🌱 Vue 3.x (Arco Design) [点击切换仓库](https://github.com/zxwk1998/vue-admin-arco)
+
+```
+# 克隆项目
+git clone https://github.com/zxwk1998/vue-admin-arco.git
+
+# 安装依赖
+pnpm i --registry=http://mirrors.cloud.tencent.com/npm/
+
+# 本地开发 启动项目
+npm run dev
+```
+
+## 🤝 友情链接
 
 - [OPSLI 基于 vue-admin-better 开源版的最佳实践](https://github.com/hiparker/opsli-boot)
-
 - [uView uni-app 生态最优秀的 UI 框架](https://github.com/YanxinNet/uView/)
-
 - [form-generator Element 表单设计代码生成器](https://github.com/JakHuang/form-generator/)
-
 - [wangEditor 国产最强开源富文本编辑](https://github.com/wangeditor-team/wangEditor)
 
-## 🙈 赞助
+## 💸 赞助支持
 
-- 如果您觉得 vue admin better 帮到了您 ，如果情况允许，您可以选择赞助以下项目
+如果您觉得 vue-admin-better 对您有帮助，欢迎赞助支持开源项目发展：
 
 <a title="vue" href="https://opencollective.com/vuejs" target="_blank">
-<img width="64px" src="https://gcore.jsdelivr.net/gh/zxwk1998/image/vue.png"/>
+  <img width="64px" src="https://gcore.jsdelivr.net/gh/zxwk1998/image/vue.png"/>
 </a>
 <a title="element-plus" href="https://opencollective.com/element-plus" target="_blank">
-<img width="64px" src="https://gcore.jsdelivr.net/gh/zxwk1998/image/element-plus.png"/>
+  <img width="64px" src="https://gcore.jsdelivr.net/gh/zxwk1998/image/element-plus.png"/>
 </a>
 <a title="ant-design-vue" href="https://opencollective.com/ant-design-vue" target="_blank">
-<img width="64px" src="https://images.opencollective.com/ant-design-vue/2ec179b/logo/256.png"/>
+  <img width="64px" src="https://images.opencollective.com/ant-design-vue/2ec179b/logo/256.png"/>
 </a>
 
-## 👷 框架杰出贡献者
+## 🏆 框架杰出贡献者
 
 <a href="https://github.com/fwfmiao" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/29328241?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/29328241?s=50"/>
 </a>
 <a href="https://github.com/buuing" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/36689704?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/36689704?s=50"/>
 </a>
 <a href="https://github.com/hipi" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/22478003?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/22478003?s=50"/>
 </a>
 <a href="https://github.com/hdtopku" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/14859466?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/14859466?s=50"/>
 </a>
 <a href="https://github.com/shaonialife" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/16135960?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/16135960?s=50"/>
 </a>
 <a href="https://github.com/1511578084" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/24790218?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/24790218?s=50"/>
 </a>
 <a href="https://github.com/Arooba-git" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/56495631?s=50"/>
+  <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/56495631?s=50"/>
 </a>
 
-## 📌 优势及注意事项
+## 🌟 优势亮点
 
-```
-对比其他开源 admin 框架有如下优势:
-1. 支持前端控制路由权限 intelligence、后端控制路由权限 all 模式
-2. 已知开源 vue admin 框架中首家支持 mock 自动生成自动导出功能
-3. 提供 50 余项全局精细化配置
-4. 支持 scss 自动排序，eslint 自动修复
-5. axios 精细化封装，支持多数据源、多成功 code 数组，支持 application/json;charset=UTF-8、application/x-www-form-urlencoded;charset=UTF-8 多种传参方式
-6. 支持登录RSA加密
-7. 支持打包自动生成7Z压缩包
-8. 支持errorlog错误拦截
-9. 支持多主题、多布局切换
+### 主要优势:
 
-使用注意事项:
-1. 项目默认使用lf换行符而非crlf换行符，新建文件时请注意选择文件换行符
-2. 项目默认使用的最严格的eslint校验规范（plugin:vue/recommended），使用之前建议配置开发工具实现自动修复（建议使用vscode开发）
-3. 项目使用的是要求最宽泛的MIT开源协议，保留MIT开源协议即可免费商用
+1. **灵活权限控制** - 支持前端控制路由权限(intelligence)和后端控制路由权限(all)两种模式
+2. **开发效率提升** - 独家支持 mock 自动生成和自动导出功能
+3. **高度可配置** - 提供 50+ 项全局精细化配置选项
+4. **开发友好** - 支持 SCSS 自动排序，ESLint 自动修复
+5. **网络请求优化** - Axios 精细化封装，支持多数据源、多成功状态码，支持多种传参方式
+6. **安全增强** - 支持登录 RSA 加密
+7. **构建优化** - 支持打包自动生成 7Z 压缩包
+8. **错误监控** - 支持错误日志拦截(errorlog)
+9. **多样化支持** - 支持多主题、多布局切换
 
-```
+### 使用须知:
+
+1. 项目默认使用 LF 换行符，请注意文件换行符设置
+2. 使用最严格的 ESLint 校验规范（plugin:vue/recommended），建议配置开发工具自动修复（推荐使用 VSCode）
+3. 项目采用 MIT 开源协议，保留协议声明即可免费商用
 
 ## 💚 适合人群
 
